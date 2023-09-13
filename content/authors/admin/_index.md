@@ -39,13 +39,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:florenceyuelin.berkeley.edu
+    link: mailto:florenceyuelin@berkeley.edu
     # link: '/#contact'
   - icon: github
     icon_pack: fab
     link: https://github.com/florenceyuelin
     display:
       header: true
+  -icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yue-lin-08b212138/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/florenceyuelin
