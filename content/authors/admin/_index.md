@@ -76,16 +76,6 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
+Welcome! I am a third-year Ph.D. student in the Charles and Louise Travers Department of Political Science at [University of California, Berkeley](https://polisci.berkeley.edu/), with a Designated Emphasis on Political Economy. My main research interests cover global investment, multinational corporations, and state-business relationship in emerging markets. Currently, I work on a project that explores how foreign high technology companies use non-market strategies to overcome regulatory barriers in the United States. My research has received funding from Berkeley Economy and Society Initiative ([BESI](https://ls.berkeley.edu/news/economy-and-society-initiative-launch-uc-berkeley-0)) and the Network for a New Political Economy ([N2PE](https://n2pe.berkeley.edu/)). 
 
-**Open source and open data**
-
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
-* [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations
-* [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
-
-**Outreach**
-
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
+Prior to doctoral studies, I gained experience at leading think tanks like the [American Enterprise Institute](https://www.aei.org/) and the [Center for Strategic and International Studies](https://www.csis.org/), where I worked on demographic policies and Chinese business and governance. I also served as a Research Assistant for the Institute of New Structural Economics at [Peking University](https://www.nse.pku.edu.cn/en/), focusing on development finance institutions. I earned my first M.A. in International Economics and International Relations from Johns Hopkins University, School of Advanced International Studies ([SAIS](https://sais.jhu.edu/)), second M.A. in Political Science from UC Berkeley, and Bachelor of Social Sciences from Hong Kong Baptist University, [United International College](https://www.uic.edu.cn/en/).
