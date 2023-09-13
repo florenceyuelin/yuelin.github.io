@@ -46,7 +46,7 @@ social:
     link: https://github.com/florenceyuelin
     display:
       header: true
-  -icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yue-lin-08b212138/
   - icon: twitter
