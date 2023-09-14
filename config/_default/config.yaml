@@ -87,7 +87,7 @@ cascade:
       path: /blog/**
     share: false
   - _target:
-      path: /research/**
+      path: /publication/**
     share: false
 
 lastmod: [":fileModTime", “:default”]
