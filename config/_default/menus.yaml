@@ -9,18 +9,18 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
-  - name: News
-    url: '/news.html'
-    weight: 30
-  - name: Publications
-    url: '/publication.html'
+# - name: News
+#    url: '/news.html'
+ #   weight: 30
+  - name: Research
+    url: '/research.html'
     weight: 40
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60
- # - name: CV
- #   url: '/files/cv.pdf'
- #   weight: 70
+   - name: CV
+     url: '/files/cv.pdf'
+     weight: 70
   
 # Sub-home menu
 #  - name: About
