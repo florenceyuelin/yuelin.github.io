@@ -20,7 +20,11 @@ main:
 #   weight: 60
   - name: CV
     url: '/files/cv.pdf'
-    weight: 70
+    weight: 50
+  - name: Teaching
+    url: '/experience.html'
+    weight: 60
+
   
 # Sub-home menu
 #  - name: About
