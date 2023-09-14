@@ -7,14 +7,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Research
+title: Last publications
 # subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - Last publications
+      - publication
     tag: ''
     category: ''
     publication_type: ''
