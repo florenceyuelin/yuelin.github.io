@@ -28,9 +28,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. student in Political Science
-      institution: University of California, Berkeley (USA)
-
+    - course: Ph.D. in Political Science (expected 2027)
+      institution: University of California, Berkeley 
+    - course: M.A. in Political Science (2023)
+      institution: University of California, Berkeley 
+   - course: M.A. in International Economics and International Relations (2020)
+      institution: Johns Hopkins University
+   - course: B.Soc.Sci. in Government and International Relations (*First Class Honors*) (2018)
+      institution: Hong Kong Baptist University 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
