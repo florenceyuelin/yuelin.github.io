@@ -9,7 +9,7 @@ first_name: Yue
 last_name: Lin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Organizations/Affiliations to show in About widget
 organizations:
