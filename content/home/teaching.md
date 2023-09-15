@@ -25,7 +25,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 + Introduction to International Relations – Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
 
 
-<h2>Quantative Methods</h2>
+<h2>Quantitative Methods</h2>
 
 
 _[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
