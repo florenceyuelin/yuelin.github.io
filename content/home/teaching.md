@@ -8,7 +8,6 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching & Mentorship"
-subtitle = "University of California, Berkeley"
 
 
 # Order that this section will appear in.
@@ -19,7 +18,7 @@ weight = 40
 +++
 <h2>1. International Relations</h2>
 
-_[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
+_[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/node/3335)_
 
 <ul>
   <li>Introduction to International Relations
@@ -37,7 +36,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 
 <h2>2. Quantitative Methods</h2>
 
-_[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
+_[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
 
 <ul>
   <li>Introduction To Empirical Analysis And Quantitative Methods
@@ -52,10 +51,20 @@ _[Department of Political Science](https://polisci.berkeley.edu/course/introduct
   </li>
 </ul>
 
+School of Advanced International Studies, Johns Hopkins University
+
+<ul>
+  <li>Statistical Methods for Business and Economics (graduate-level)
+    <ul>
+      <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John M. Harrington</a>)</li>
+    </ul>
+  </li>
+</ul>
+
 
 <h2>3. Mentorship</h2>
 
-_[Institute of International Studies](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
+_[Institute of International Studies, UC Berkeley](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
 
 <ul>
   <li>Undergraduate Fellowship in International Studies
