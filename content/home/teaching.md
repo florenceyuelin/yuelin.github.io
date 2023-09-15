@@ -41,8 +41,7 @@ _[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/cou
 <ul>
   <li>Introduction To Empirical Analysis and Quantitative Methods
     <ul>
-      <li>Graduate Student Instructor; <a href="https://github.com/florenceyuelin/PS3-Section-Lab">Lab</a>Instructor; Tutor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>)</li>
-
+      <li>Graduate Student Instructor; <a href="https://github.com/florenceyuelin/PS3-Section-Lab">Lab</a> Instructor; Tutor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>)</li>
 <!-- <li> Course evaluation: <a href="/files/eval3.pdf">Section 1</a>  <a href="/files/eval4.pdf"> 2</a></li> --> 
     </ul>
   </li>
