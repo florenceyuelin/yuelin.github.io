@@ -7,6 +7,9 @@ main:
   - name: About
     url: '/index.html'
     weight: 10
+  - name: CV
+    url: '/files/cv.pdf'
+    weight: 20
   - name: Research
     url: '#publications'
     weight: 30
@@ -19,9 +22,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: CV
-    url: '/files/cv.pdf'
-    weight: 70
     
 # Sub-home menu
 #  - name: About
