@@ -17,7 +17,7 @@ weight = 40
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-<h2>International Relations</h2>
+<h2>1. International Relations</h2>
 
 
 _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
@@ -25,7 +25,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 + Introduction to International Relations – Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
 
 
-<h2>Quantitative Methods</h2>
+<h2>2. Quantitative Methods</h2>
 
 
 _[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
@@ -33,7 +33,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/course/introduct
 + Introduction To Empirical Analysis And Quantitative Methods – Graduate Student Instructor; Lab Instructor; Tutor (with [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman))
 
 
-<h2>Mentorship</h2>
+<h2>3. Mentorship</h2>
 
 
 _[Institute of International Studies](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
