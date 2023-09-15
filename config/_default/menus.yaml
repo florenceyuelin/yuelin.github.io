@@ -7,8 +7,8 @@ main:
   - name: About
     url: '/index.html'
     weight: 10
- # - name: " "
- #  weight: 5
+  - name: " "
+    weight: 15
   - name: CV
     url: '/files/cv.pdf'
     weight: 20
