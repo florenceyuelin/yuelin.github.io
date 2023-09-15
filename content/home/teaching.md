@@ -19,7 +19,6 @@ weight = 40
 +++
 <h2>1. International Relations</h2>
 
-
 _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 
 <ul>
@@ -27,14 +26,12 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
     <ul>
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
       <li>Course evaluation<li>
-
-
-+ Introduction to International Relations
-  ++ Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
+    </ul>
+  </li>
+</ul>
 
 
 <h2>2. Quantitative Methods</h2>
-
 
 _[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
 
@@ -42,7 +39,6 @@ _[Department of Political Science](https://polisci.berkeley.edu/course/introduct
 
 
 <h2>3. Mentorship</h2>
-
 
 _[Institute of International Studies](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
 
