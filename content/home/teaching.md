@@ -22,7 +22,8 @@ weight = 40
 
 _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 
-+ Introduction to International Relations – Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
++ Introduction to International Relations
++ + Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
 
 
 <h2>2. Quantitative Methods</h2>
