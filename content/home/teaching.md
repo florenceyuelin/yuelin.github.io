@@ -18,18 +18,24 @@ weight = 40
 
 +++
 <h2>International Relations</h2>
+
+
 _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 
 + Introduction to International Relations – Graduate Student Instructor (with [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz))
 
 
 <h2>Quantative Methods</h2>
+
+
 _[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
 
 + Introduction To Empirical Analysis And Quantitative Methods – Graduate Student Instructor (with [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman))
 
 
 <h2>Research Mentorship</h2>
+
+
 _[Institute of International Studies](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
 
 + Undergraduate Fellowship in International Studies – Graduate Student Mentor
