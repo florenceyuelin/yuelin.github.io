@@ -43,18 +43,14 @@ _[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/cou
     <ul>
       <li>Graduate Student Instructor; Lab Instructor; Tutor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>)</li>
       <li><a href="https://github.com/florenceyuelin/PS3-Section-Lab">Lab</a></li>
-#      <li>
-#          Course evaluation: 
-#          <a href="/files/eval3.pdf">Section 1</a>
-#          <a href="/files/eval4.pdf"> 2</a>
-#      </li>
+<!-- <li> Course evaluation: <a href="/files/eval3.pdf">Section 1</a>  <a href="/files/eval4.pdf"> 2</a></li> --> 
     </ul>
   </li>
 </ul>
 
-School of Advanced International Studies, Johns Hopkins University
+_[School of Advanced International Studies, Johns Hopkins University](https://courses.jhu.edu/?query=Statistical+Methods+for+Business+%26+Economics&terms=Spring+2021)_
 
-_[Statistical Methods for Business and Economics (graduate-level)](https://courses.jhu.edu/?query=Statistical+Methods+for+Business+%26+Economics&terms=Spring+2021)_
+Statistical Methods for Business and Economics (graduate-level)
 
 <ul>
   <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John M. Harrington</a>)</li>
