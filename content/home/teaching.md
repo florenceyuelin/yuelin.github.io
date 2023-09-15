@@ -28,7 +28,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
       <li>
           Course evaluation: 
           <a href="/files/eval1.pdf">Section 1</a>
-          <a href="/files/eval2.pdf">and 2</a>
+          <a href="/files/eval2.pdf"> 2</a>
       </li>
     </ul>
   </li>
