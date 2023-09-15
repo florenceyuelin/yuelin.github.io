@@ -1,6 +1,6 @@
 ---
 title: "Surviving under Pressure: How Multinational Corporations Redesign Regulatory Outcomes"
-date: 2023-09-15
+date: 2023-01-01
 authors: ["**Yue Lin**"]
 publication_types: ["3"]
 abstract: "TBA"
