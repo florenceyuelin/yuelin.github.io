@@ -22,7 +22,7 @@ main:
     url: '/files/cv.pdf'
     weight: 50
   - name: Teaching
-    url: '/experience.html'
+    url: '/teaching.html'
     weight: 60
 
   
