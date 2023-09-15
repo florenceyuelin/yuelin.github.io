@@ -25,7 +25,7 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
   <li>Introduction to International Relations
     <ul>
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
-      <li>Course evaluation<li>
+      <li>Course evaluation</li>
     </ul>
   </li>
 </ul>
