@@ -39,11 +39,28 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
 
 _[Department of Political Science](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_
 
-+ Introduction To Empirical Analysis And Quantitative Methods – Graduate Student Instructor; Lab Instructor; Tutor (with [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman))
+<ul>
+  <li>Introduction To Empirical Analysis And Quantitative Methods
+    <ul>
+      <li>Graduate Student Instructor; Lab Instructor; Tutor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>)</li>
+      <li>
+          Course evaluation: 
+          <a href="/files/eval3.pdf">Section 1</a>
+          <a href="/files/eval4.pdf"> 2</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 
 <h2>3. Mentorship</h2>
 
 _[Institute of International Studies](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
 
-+ Undergraduate Fellowship in International Studies – Graduate Student Mentor
+<ul>
+  <li>Undergraduate Fellowship in International Studies
+    <ul>
+      <li>Graduate Student Mentor</li>
+    </ul>
+  </li>
+</ul>
