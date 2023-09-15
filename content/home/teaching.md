@@ -27,8 +27,8 @@ _[Department of Political Science](https://polisci.berkeley.edu/node/3335)_
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
       <li>
           Course evaluation: 
-          <a href="/files/cv.pdf">Section 1</a>
-          <a href="/files/cv.pdf">Section 2</a>
+          <a href="/files/eval1.pdf">Section 1</a>
+          <a href="/files/eval2.pdf">and 2</a>
       </li>
     </ul>
   </li>
