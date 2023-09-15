@@ -13,7 +13,7 @@ main:
 #   url: '/news.html'
 #   weight: 30
   - name: Research
-    url: '#publication'
+    url: '#publications'
     weight: 40
 # - name: Blog
 #   url: '/blog/'
