@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-#  - name: About
-#    url: '/index.html'
-#    weight: 10
+  - name: About
+    url: '/index.html'
+    weight: 10
   - name:
     url: '#cv'
     weight: 10
