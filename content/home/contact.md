@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: florenceyuelin@berkeley.edu
+  email: florenceyuelin [at] berkeley.edu
 
 design:
   columns: '2'
