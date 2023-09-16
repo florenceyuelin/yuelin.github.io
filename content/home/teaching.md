@@ -45,7 +45,7 @@ _Department of Political Science, UC Berkeley_
 _School of Advanced International Studies, Johns Hopkins University_
 
 <ul>
-  <li>Statistical Methods for Business and Economics (graduate-level)
+  <li><a href="harrington_stats_syllabus.pdf">Statistical Methods for Business and Economics</a> (graduate-level)</li>
     <ul>
       <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John M. Harrington</a>)</li>
     </ul>
