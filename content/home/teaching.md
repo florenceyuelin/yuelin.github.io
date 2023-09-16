@@ -42,7 +42,7 @@ _[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/cou
   </li>
 </ul>
 
-_<a href="harrington_stats_syllabus.pdf">School of Advanced International Studies, Johns Hopkins University</a>_
+School of Advanced International Studies, Johns Hopkins University
 
 <ul>
   <li>Statistical Methods for Business and Economics (graduate-level)
