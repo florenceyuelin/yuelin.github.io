@@ -42,7 +42,7 @@ _[Department of Political Science, UC Berkeley](https://polisci.berkeley.edu/cou
   </li>
 </ul>
 
-_[School of Advanced International Studies, Johns Hopkins University](https://courses.jhu.edu/?query=Statistical+Methods+for+Business+%26+Economics&terms=Spring+2021)_
+_<a href="harrington_stats_syllabus.pdf">[School of Advanced International Studies, Johns Hopkins University]</a>_
 
 <ul>
   <li>Statistical Methods for Business and Economics (graduate-level)
