@@ -55,10 +55,10 @@ _School of Advanced International Studies, Johns Hopkins University_
 
 <h2>3. Mentorship</h2>
 
-_[Institute of International Studies, UC Berkeley](https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies)_
+_Institute of International Studies, UC Berkeley_
 
 <ul>
-  <li>Undergraduate Fellowship in International Studies
+  <li><a href="https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies">Undergraduate Fellowship in International Studies</a></li>
     <ul>
       <li>Graduate Student Mentor</li>
     </ul>
