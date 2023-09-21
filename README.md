@@ -5,7 +5,7 @@ easy to customise furthermore using css. Here is the [live](https://florenceyuel
 
 Enter your publications as a folder in [content/publication/](content/publication/).
 
-[![aboutme](https://florenceyuelin.github.io/)](https://florenceyuelin.github.io/)
+[![aboutme](aboutme.png)](https://florenceyuelin.github.io/)
 
 Feel free to use the template, it is originaly
 from [wowchemy](https://wowchemy.com/), with some custom css
