@@ -7,7 +7,7 @@ Enter your publications as a folder in [content/publication/](content/publicatio
 
 [![aboutme](aboutme.png)](https://florenceyuelin.github.io/)
 
-Feel free to use the template, it is originaly
+Credits to @simongravelle for the foundation of the template, which is originaly
 from [wowchemy](https://wowchemy.com/), with some custom css
 adapted from [nickballousite](https://github.com/nballou) webpage.
 
