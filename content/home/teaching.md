@@ -21,7 +21,7 @@ weight = 40
 _Department of Political Science, UC Berkeley_
 
 <ul>
-  <li><a href="https://polisci.berkeley.edu/node/3335">Introduction to International Relations</a><a href="/files/ps5.pdf">[syllabus]</a></li>
+  <li>Introduction to International Relations <a href="/files/ps5.pdf">[syllabus]</a></li>
     <ul>
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
     </ul>
@@ -34,7 +34,7 @@ _Department of Political Science, UC Berkeley_
 _Department of Political Science, UC Berkeley_
 
 <ul>
-  <li><a href="https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32">Introduction To Empirical Analysis and Quantitative Methods</a></li>
+  <li>Introduction To Empirical Analysis and Quantitative Methods <a href="/files/ps3.pdf">[syllabus]</a></li>
     <ul>
       <li>Graduate Student Instructor; <a href="https://github.com/florenceyuelin/PS3-Section-Lab">Lab</a> Instructor; Tutor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>)</li>
 <!-- <li> Course evaluation: <a href="/files/eval3.pdf">Section 1</a>  <a href="/files/eval4.pdf"> 2</a></li> --> 
@@ -45,7 +45,7 @@ _Department of Political Science, UC Berkeley_
 _School of Advanced International Studies, Johns Hopkins University_
 
 <ul>
-  <li><a href="/files/harrington_stats_syllabus.pdf">Statistical Methods for Business and Economics</a> (graduate-level)</li>
+  <li>Statistical Methods for Business and Economics (graduate-level) <a href="/files/harrington_stats_syllabus.pdf">[syllabus]</a></li>
     <ul>
       <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John M. Harrington</a>)</li>
     </ul>
