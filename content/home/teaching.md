@@ -21,7 +21,7 @@ weight = 40
 _Department of Political Science, UC Berkeley_
 
 <ul>
-  <li><a href="https://polisci.berkeley.edu/node/3335">Introduction to International Relations</a></li>
+  <li><a href="https://polisci.berkeley.edu/node/3335">Introduction to International Relations</a><a href="/files/ps5.pdf">[syllabus]</a></li>
     <ul>
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
     </ul>
