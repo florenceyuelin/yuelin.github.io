@@ -58,9 +58,9 @@ _School of Advanced International Studies, Johns Hopkins University_
 _Institute of International Studies, UC Berkeley_
 
 <ul>
-  <li><a href="https://iis.berkeley.edu/fellowships-grants/undergraduate-fellowship-international-studies">Undergraduate Fellowship in International Studies</a></li>
+  <li>Undergraduate Fellowship in International Studies</li>
     <ul>
-      <li>Graduate Student Mentor</li>
+      <li><a href="https://iis.berkeley.edu/people/yue-lin">Graduate Student Mentor</a></li>
     </ul>
   </li>
 </ul>
