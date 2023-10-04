@@ -60,7 +60,7 @@ _Institute of International Studies, UC Berkeley_
 <ul>
   <li>Undergraduate Fellowship in International Studies</li>
     <ul>
-      <li><a href="https://iis.berkeley.edu/people/yue-lin">Graduate Student</a></li>
+      <li><a href="https://iis.berkeley.edu/people/yue-lin">Graduate Student Mentor</a></li>
     </ul>
   </li>
 </ul>
