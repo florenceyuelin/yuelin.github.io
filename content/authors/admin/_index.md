@@ -32,7 +32,7 @@ education:
       institution: University of California, Berkeley 
     - course: M.A. in Political Science (2023)
       institution: University of California, Berkeley 
-    - course: M.A. in International Economics and International Relations (Area Concentration: China) (2020)
+    - course: M.A. in International Economics and International Relations (2020)
       institution: Johns Hopkins University
     - course: B.Soc.Sci. in Government and International Relations (First Class Honors, 2018)
       institution: Hong Kong Baptist University 
