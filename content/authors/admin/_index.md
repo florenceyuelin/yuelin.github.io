@@ -21,7 +21,7 @@ bio: I am a Ph.D. student in Political Science at the University of California, 
 
 # Interests to show in About widget
 interests:
-  - Multinational Corporation and Investment Strategy
+  - Multinational Corporation 
   - Geopolitical Risk and International Tension
   - Foreign Lobbying in the United States
 
