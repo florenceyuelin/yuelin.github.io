@@ -23,7 +23,12 @@ _Department of Political Science, UC Berkeley_
 <ul>
   <li>Introduction to International Relations <a href="/files/ps5.pdf">[syllabus]</a></li>
     <ul>
-      <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)</li>
+      <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)  </li>
+    </ul>
+  </li>
+    <li>International Political Economy <a href="https://polisci.berkeley.edu/course/international-political-economy-1">[course link]</a>   
+    <ul>
+      <li>Mentor</li>
     </ul>
   </li>
 </ul>
@@ -47,7 +52,7 @@ _School of Advanced International Studies, Johns Hopkins University_
 <ul>
   <li>Statistical Methods for Business and Economics (graduate-level) <a href="/files/harrington_stats_syllabus.pdf">[syllabus]</a></li>
     <ul>
-      <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John M. Harrington</a>)</li>
+      <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John Harrington</a>)</li>
     </ul>
   </li>
 </ul>
