@@ -28,7 +28,7 @@ _Department of Political Science, UC Berkeley_
   </li>
     <li>International Political Economy <a href="https://polisci.berkeley.edu/course/international-political-economy-1">[course link]</a>   
     <ul>
-      <li>Mentor</li>
+      <li>Tutor</li>
     </ul>
   </li>
 </ul>
