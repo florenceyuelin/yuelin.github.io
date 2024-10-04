@@ -71,3 +71,13 @@ _Institute of International Studies, UC Berkeley_
     </ul>
   </li>
 </ul>
+
+_Institute for Research on Labor and Employment, UC Berkeley_
+
+<ul>
+  <li>Social Sciences Research Pathways</li>
+    <ul>
+      <li><a href="https://irle.berkeley.edu/student-opportunities/social-science-research-pathways/">Graduate Student Mentor</a></li>
+    </ul>
+  </li>
+</ul>
