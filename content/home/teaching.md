@@ -26,7 +26,7 @@ _Department of Political Science, UC Berkeley_
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)  </li>
     </ul>
   </li>
-    <li>International Political Economy <a href="https://polisci.berkeley.edu/course/international-political-economy-1">[course link]</a>   
+    <li>International Political Economy <a href="/files/ps126A.pdf">[syllabus]</a></li>
     <ul>
       <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/ryan-brutger">Ryan Brutger</a>); Tutor</li>
     </ul>
