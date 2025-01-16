@@ -17,13 +17,13 @@ organizations:
     url: https://polisci.berkeley.edu/people/person/yue-florence-lin
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Political Science at the University of California, Berkeley.
+bio: I am a Ph.D. Candidate in Political Science at the University of California, Berkeley.
 
 # Interests to show in About widget
 interests:
-  - Multinational Corporation 
-  - Geopolitical Risk and International Tension
-  - Foreign Lobbying in the United States
+  - Geopolitical Risk and Economic Security
+  - U.S. Congress
+  - Multinational Corporations 
 
 # Education to show in About widget
 education:
